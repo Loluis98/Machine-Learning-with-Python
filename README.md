@@ -1,0 +1,1 @@
+This repository contains hands-on projects from a comprehensive Machine Learning course, covering supervised and unsupervised learning techniques. Each project demonstrates practical application of ML algorithms, data preprocessing, feature engineering, and model evaluation.
